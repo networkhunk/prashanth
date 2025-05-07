@@ -22,6 +22,6 @@ export default defineConfig({
   },
   server: {
     // @ts-ignore
-    allowedHosts: all,
+    allowedHosts: "all",
   },
 });
